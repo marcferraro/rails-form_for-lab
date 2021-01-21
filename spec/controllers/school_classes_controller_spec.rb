@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-
+# byebug
 describe SchoolClassesController do
 
   describe "POST create" do
